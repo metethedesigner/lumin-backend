@@ -20,5 +20,8 @@
 - npm install işlemi yapıldıktan sonra "npx ts-node src/scripts/seed.ts" komutu ile seed çalıştırarak firestore'a 1000 adet rezervasyon ve 10 adet kullanıcı ekliyoruz.
 - .env-exapmle dosyası ".env" şeklinde güncellenmeli.
 
+- Admin Hesabı için: admin-admin123
+- Staff Hesapları için: staff1-staff1 şeklinde 9'a kadar giriş yapılabilir.
+
 
 
